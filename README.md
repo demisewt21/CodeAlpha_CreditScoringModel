@@ -33,5 +33,5 @@ Predict an individual's creditworthiness using past financial data using classif
 
 **Project completed as part of CodeAlpha Machine Learning Internship Program**
 
-GitHub: [Your repo link]
-LinkedIn Post: [Link to your video post]
+GitHub: (https://github.com/demisewt21/CodeAlpha_CreditScoringModel.git)
+
